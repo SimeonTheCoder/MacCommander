@@ -1,0 +1,292 @@
+Recent:
+  - bFromWeb: true
+    WebDBID: 1273576
+    Version:
+      Major: 10
+      Minor: 0
+      Build: 1007
+      SpecialBuildName: ""
+      ptArchitecture: 64
+    Name: "#1273576"
+    Path: C:\ProgramData\PassMark\PerformanceTest10\BaselineWebCache\#1273576.ptx
+    CpuType: Intel Core i5-10300H @ 2.50GHz
+    IsLaptop: true
+    CpuSpeed: 2496
+    CpuTurboSpeed: 4293
+    NumCPUs: 1
+    CoresPerCpu: 4
+    LogicalsPerCore: 0
+    OperatingSystem: Windows 10 build 19041 (64-bit)
+    RAM: 16174
+    VideoCard: GeForce GTX 1650
+    MotherBoardManufacturer: Dell Inc.
+    MotherBoardModel: 04GH40
+    Model: Dell G3 15
+    HDDModel: KBG40ZNS256G NVMe KIOXIA 256GB
+    rating_overall: 3328.75
+    rating_cpu: 8795.3203125
+    rating_2d: 346.667999267578
+    rating_3d: 7461.39990234375
+    rating_me: 2712.43994140625
+    rating_di: 13323.2001953125
+    CreateDate: 20200727114053
+    LastAccessed: 20201225100642
+  - bFromWeb: true
+    WebDBID: 1279262
+    Version:
+      Major: 10
+      Minor: 0
+      Build: 1008
+      SpecialBuildName: ""
+      ptArchitecture: 64
+    Name: "#1279262"
+    Path: C:\ProgramData\PassMark\PerformanceTest10\BaselineWebCache\#1279262.ptx
+    CpuType: Intel Core i5-10300H @ 2.50GHz
+    IsLaptop: true
+    CpuSpeed: 2496
+    CpuTurboSpeed: 4492
+    NumCPUs: 1
+    CoresPerCpu: 4
+    LogicalsPerCore: 0
+    OperatingSystem: Windows 10 Home build 18363 (64-bit)
+    RAM: 7986
+    VideoCard: GeForce GTX 1650
+    MotherBoardManufacturer: Dell Inc.
+    MotherBoardModel: 04GH40
+    Model: Dell G3 15 3500
+    HDDModel: Unknown Drive
+    rating_overall: 3406.26000976563
+    rating_cpu: 9399.7197265625
+    rating_2d: 356.535003662109
+    rating_3d: 7381.56005859375
+    rating_me: 2527.61010742188
+    rating_di: 15592
+    CreateDate: 20200810012655
+    LastAccessed: 20201225100550
+Bookmarks:
+  []
+MyBaselinesCache:
+  - bFromWeb: false
+    WebDBID: 1
+    Version:
+      Major: 10
+      Minor: 0
+      Build: 1002
+      SpecialBuildName: ""
+      ptArchitecture: 64
+    Name: "Baseline #1"
+    Path: "C:\\ProgramData\\PassMark\\PerformanceTest10\\Reference Baselines\\Reference Baseline #1.ptx"
+    CpuType: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz
+    IsLaptop: false
+    CpuSpeed: 3696.3076171875
+    CpuTurboSpeed: 4595.40966796875
+    NumCPUs: 1
+    CoresPerCpu: 6
+    LogicalsPerCore: 2
+    OperatingSystem: Windows 10 Professional Edition build 18363 (64-bit)
+    RAM: 32718
+    VideoCard: NVIDIA GeForce RTX 2060
+    MotherBoardManufacturer: Gigabyte Technology Co., Ltd.
+    MotherBoardModel: Z370 HD3-CF
+    Model: ""
+    HDDModel: Samsung SSD 960 EVO 1TB
+    rating_overall: 7118.79638671875
+    rating_cpu: 14329.0302734375
+    rating_2d: 1037.64172363281
+    rating_3d: 16171.1064453125
+    rating_me: 3379.24951171875
+    rating_di: 19785.4609375
+    CreateDate: 20200301220304
+    LastAccessed: 20201225120422
+  - bFromWeb: false
+    WebDBID: 2
+    Version:
+      Major: 10
+      Minor: 0
+      Build: 1002
+      SpecialBuildName: ""
+      ptArchitecture: 64
+    Name: "Baseline #2"
+    Path: "C:\\ProgramData\\PassMark\\PerformanceTest10\\Reference Baselines\\Reference Baseline #2.ptx"
+    CpuType: AMD FX(tm)-8120 Eight-Core Processor
+    IsLaptop: false
+    CpuSpeed: 3121.05517578125
+    CpuTurboSpeed: 0
+    NumCPUs: 1
+    CoresPerCpu: 4
+    LogicalsPerCore: 2
+    OperatingSystem: Windows 10 build 18363 (64-bit)
+    RAM: 8173
+    VideoCard: NVIDIA GeForce GTX 1060 3GB
+    MotherBoardManufacturer: Gigabyte Technology Co., Ltd.
+    MotherBoardModel: GA-990FXA-UD3
+    Model: ""
+    HDDModel: INTEL SSDSC2BW120A4
+    rating_overall: 2489.44702148438
+    rating_cpu: 4853.35546875
+    rating_2d: 423.692687988281
+    rating_3d: 7375.26025390625
+    rating_me: 1376.82861328125
+    rating_di: 2145.87451171875
+    CreateDate: 20200302035824
+    LastAccessed: 20201225120422
+  - bFromWeb: false
+    WebDBID: 3
+    Version:
+      Major: 10
+      Minor: 0
+      Build: 1002
+      SpecialBuildName: ""
+      ptArchitecture: 64
+    Name: "Baseline #3"
+    Path: "C:\\ProgramData\\PassMark\\PerformanceTest10\\Reference Baselines\\Reference Baseline #3.ptx"
+    CpuType: Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz
+    IsLaptop: false
+    CpuSpeed: 3600.1689453125
+    CpuTurboSpeed: 0
+    NumCPUs: 1
+    CoresPerCpu: 2
+    LogicalsPerCore: 2
+    OperatingSystem: Windows 10 build 17763 (64-bit)
+    RAM: 7998
+    VideoCard: Intel(R) HD Graphics 4400
+    MotherBoardManufacturer: Gigabyte Technology Co., Ltd.
+    MotherBoardModel: H97M-D3H
+    Model: ""
+    HDDModel: INTEL SSDSC2CW240A3
+    rating_overall: 1861.61694335938
+    rating_cpu: 3746.02880859375
+    rating_2d: 365.096954345703
+    rating_3d: 539.168579101563
+    rating_me: 1979.63513183594
+    rating_di: 4645.298828125
+    CreateDate: 20200302035907
+    LastAccessed: 20201225120422
+  - bFromWeb: false
+    WebDBID: 4
+    Version:
+      Major: 10
+      Minor: 0
+      Build: 1002
+      SpecialBuildName: ""
+      ptArchitecture: 64
+    Name: "Baseline #4"
+    Path: "C:\\ProgramData\\PassMark\\PerformanceTest10\\Reference Baselines\\Reference Baseline #4.ptx"
+    CpuType: AMD Ryzen 9 3900 12-Core Processor
+    IsLaptop: false
+    CpuSpeed: 2883.52294921875
+    CpuTurboSpeed: 4354.63916015625
+    NumCPUs: 1
+    CoresPerCpu: 12
+    LogicalsPerCore: 2
+    OperatingSystem: Windows 10 build 18362 (64-bit)
+    RAM: 16334
+    VideoCard: AMD Radeon R9 380
+    MotherBoardManufacturer: Gigabyte Technology Co., Ltd.
+    MotherBoardModel: X570 AORUS MASTER
+    Model: ""
+    HDDModel: WDS500G2X0C-00L350
+    rating_overall: 7160.58984375
+    rating_cpu: 30956.400390625
+    rating_2d: 885.10302734375
+    rating_3d: 6523.173828125
+    rating_me: 3272.30688476563
+    rating_di: 22410.677734375
+    CreateDate: 20200303021635
+    LastAccessed: 20201225120422
+  - bFromWeb: false
+    WebDBID: 5
+    Version:
+      Major: 10
+      Minor: 0
+      Build: 1002
+      SpecialBuildName: ""
+      ptArchitecture: 64
+    Name: "Baseline #5"
+    Path: "C:\\ProgramData\\PassMark\\PerformanceTest10\\Reference Baselines\\Reference Baseline #5.ptx"
+    CpuType: Intel(R) Core(TM) i9-7900X CPU @ 3.30GHz
+    IsLaptop: false
+    CpuSpeed: 3312.15869140625
+    CpuTurboSpeed: 4115.1064453125
+    NumCPUs: 1
+    CoresPerCpu: 10
+    LogicalsPerCore: 2
+    OperatingSystem: Windows 10 Professional Edition build 18362 (64-bit)
+    RAM: 16057
+    VideoCard: Radeon RX 560 Series
+    MotherBoardManufacturer: ASUSTeK COMPUTER INC.
+    MotherBoardModel: PRIME X299-A
+    Model: ""
+    HDDModel: Samsung SSD 850 PRO 512GB
+    rating_overall: 4842.7685546875
+    rating_cpu: 20733.638671875
+    rating_2d: 644.319458007813
+    rating_3d: 4440.92138671875
+    rating_me: 2629.46166992188
+    rating_di: 5124.6220703125
+    CreateDate: 20200302215846
+    LastAccessed: 20201225120422
+  - bFromWeb: false
+    WebDBID: 6
+    Version:
+      Major: 10
+      Minor: 0
+      Build: 1000
+      SpecialBuildName: ""
+      ptArchitecture: 64
+    Name: "Baseline #6"
+    Path: "C:\\ProgramData\\PassMark\\PerformanceTest10\\Reference Baselines\\Reference Baseline #6.ptx"
+    CpuType: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+    IsLaptop: true
+    CpuSpeed: 2808.076171875
+    CpuTurboSpeed: 3810.96069335938
+    NumCPUs: 1
+    CoresPerCpu: 4
+    LogicalsPerCore: 2
+    OperatingSystem: Windows 10 build 18362 (64-bit)
+    RAM: 16248
+    VideoCard: NVIDIA GeForce GTX 1050 Ti (Mobile)
+    MotherBoardManufacturer: LENOVO
+    MotherBoardModel: 20JACTO1WW
+    Model: ""
+    HDDModel: INTEL SSDPEKKF256G7L
+    rating_overall: 3232.087890625
+    rating_cpu: 7438.26025390625
+    rating_2d: 365.221252441406
+    rating_3d: 6128.14208984375
+    rating_me: 2760.501953125
+    rating_di: 7906.98046875
+    CreateDate: 20200302101734
+    LastAccessed: 20201225120422
+  - bFromWeb: false
+    WebDBID: 7
+    Version:
+      Major: 10
+      Minor: 0
+      Build: 1002
+      SpecialBuildName: ""
+      ptArchitecture: 64
+    Name: "Baseline #7"
+    Path: "C:\\ProgramData\\PassMark\\PerformanceTest10\\Reference Baselines\\Reference Baseline #7.ptx"
+    CpuType: AMD Ryzen Threadripper 1950X 16-Core Processor
+    IsLaptop: false
+    CpuSpeed: 3393.91284179688
+    CpuTurboSpeed: 0
+    NumCPUs: 1
+    CoresPerCpu: 16
+    LogicalsPerCore: 2
+    OperatingSystem: Windows 10 Professional Edition build 18362 (64-bit)
+    RAM: 65408
+    VideoCard: AMD Radeon RX 580
+    MotherBoardManufacturer: ASUSTeK COMPUTER INC.
+    MotherBoardModel: PRIME X399-A
+    Model: ""
+    HDDModel: Samsung SSD 970 EVO Plus 1TB
+    rating_overall: 6508.32080078125
+    rating_cpu: 26039.03515625
+    rating_2d: 793.151123046875
+    rating_3d: 9390.505859375
+    rating_me: 2711.03271484375
+    rating_di: 26442.720703125
+    CreateDate: 20200303015601
+    LastAccessed: 20201225120422
